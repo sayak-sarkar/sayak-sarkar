@@ -49,9 +49,11 @@ Markdown     2 mins          ███░░░░░░░░░░░░░░
 
 📈 **My GitHub Stats:**
 
-<p>
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sayak-sarkar&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayak-sarkar&show_icons=true&hide_border=true&count_private=true&layout=compact&langs_count=8"/>
 </p>
 
 -------
+
+<p align="center"> <img alt="Image of suspicious avatar" src="https://user-images.githubusercontent.com/1418735/132141460-caa66623-a446-4309-a960-12cd81efc68d.png" width="300" /></p>
