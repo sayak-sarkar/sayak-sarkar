@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
   
-**About Me:**
+👨‍💻 **About Me:**
 
 
 <img align="right" alt="Image of avatar holding an unplugged laptop" src="https://github.com/sayak-sarkar/sayak-sarkar/raw/main/Unplugged.png" height="300" /></p>
@@ -31,9 +31,11 @@ I am a software engineer and a technical speaker who loves programming, writing,
 
 Here's some metadata about me:
 - 😄 Pronouns: He / Him / His;
-- 🔭 I like building tools to ease developers lives;
-- 👯 I’m looking to collaborate on interesting projects;
 - 💬 Ask me about about anything Open Source;
+- 🔭 I like building tools to ease developers lives;
+- 🌱 I’m currently learning Game Design and Development;
+- 👯 I’m looking to collaborate on interesting projects;
+- 📫 Best medium to reach me: [@sayak_sarkar](https://twitter.com/sayak_sarkar) on Twitter;
 - ⚡ Fun fact: I have a large collection of minion figurines.
 
 -------
