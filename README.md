@@ -56,4 +56,4 @@ Markdown     2 mins          ███░░░░░░░░░░░░░░
 
 -------
 
-<p align="center"> <img alt="Image of suspicious avatar" src="https://user-images.githubusercontent.com/1418735/132141460-caa66623-a446-4309-a960-12cd81efc68d.png" width="300" /></p>
+<p align="center"> <img alt="Image of suspicious avatar" src="https://github.com/sayak-sarkar/sayak-sarkar/raw/main/Suspicious.png" width="300" /></p>
