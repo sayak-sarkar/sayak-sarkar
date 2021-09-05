@@ -8,28 +8,14 @@
   <a href="https://t.me/Bugsmith"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white"></a>
   <img src="https://visitor-badge.glitch.me/badge?page_id=sayak-sarkar/sayak-sarkar">
 </p>
-
-<!--
-**sayak-sarkar/sayak-sarkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
--->
   
 👨‍💻 **About Me:**
-
 
 <img align="right" alt="Image of avatar holding an unplugged laptop" src="https://github.com/sayak-sarkar/sayak-sarkar/raw/main/Unplugged.png" height="300" /></p>
 I am a software engineer and a technical speaker who loves programming, writing, speaking and traveling. I also spend a lot of time tinkering away on my laptop exploring the interwebs or racking my brain to solve interesting problems.
 
 Here's some metadata about me:
+
 - 😄 Pronouns: He / Him / His;
 - 💬 Ask me about about anything Open Source;
 - 🔭 I like building tools to ease developers lives;
@@ -68,4 +54,4 @@ Markdown     2 mins          ███░░░░░░░░░░░░░░
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayak-sarkar&show_icons=true&hide_border=true&count_private=true&layout=compact&langs_count=8"/>
 </p>
 
---------
+-------
