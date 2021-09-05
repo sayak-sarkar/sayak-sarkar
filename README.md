@@ -53,6 +53,10 @@ Here's some metadata about me:
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
+```text
+JSON         20 mins         ██████████████████████░░░   88.54 % 
+Markdown     2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+```
 <!--END_SECTION:waka-->
 
 -------
