@@ -42,6 +42,11 @@ Here's some metadata about me:
 
 📝 **Blog posts**
 <!-- BLOG-POST-LIST:START -->
+- [HTTPS Methods and Status Codes](https://sayaksarkar.wordpress.com/2021/04/06/https-methods-and-status-codes/)
+- [Privacy in the Age of IoT](https://sayaksarkar.wordpress.com/2021/04/01/privacy-in-the-age-of-iot/)
+- [Updating Email ID and Author Name from multiple commits in Git](https://sayaksarkar.wordpress.com/2019/01/31/updating-email-id-and-author-name-from-multiple-commits-in-git/)
+- [Bulk renaming PDFs to their Title names from PDF Metadata](https://sayaksarkar.wordpress.com/2017/08/04/bulk-renaming-pdfs-to-their-title-names-from-pdf-metadata/)
+- [Working around untrusted certificate errors in Express JS](https://sayaksarkar.wordpress.com/2017/08/02/working-around-untrusted-cert-errors-in-express-js/)
 <!-- BLOG-POST-LIST:END -->
 
 -------
