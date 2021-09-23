@@ -40,8 +40,7 @@ Here's some metadata about me:
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-TypeScript   7 mins          █████████████████████░░░░   84.53 % 
-JavaScript   1 min           ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
