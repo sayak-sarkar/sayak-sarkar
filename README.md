@@ -40,7 +40,7 @@ Here's some metadata about me:
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Markdown   59 mins         █████████████████████████   100.00 % 
+
 ```
 <!--END_SECTION:waka-->
 
