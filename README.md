@@ -40,9 +40,7 @@ Here's some metadata about me:
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-HTML         36 mins         ██████████████████▓░░░░░░   74.16 % 
-JavaScript   8 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.12 % 
-Other        3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
