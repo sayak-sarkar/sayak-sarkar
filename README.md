@@ -40,7 +40,9 @@ Here's some metadata about me:
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Total: 1 min
+
+
 ```
 <!--END_SECTION:waka-->
 
