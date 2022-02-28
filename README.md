@@ -41,12 +41,10 @@ Here's some metadata about me:
 <!--START_SECTION:waka-->
 
 ```text
-Groovy       43 mins         ██████████████▒░░░░░░░░░░   57.55 %
-YAML         20 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.56 %
-Properties   11 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.50 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-INI          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Groovy       2 mins          ██████████████░░░░░░░░░░░   55.42 %
+YAML         2 mins          ███████████░░░░░░░░░░░░░░   43.58 %
+Properties   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
