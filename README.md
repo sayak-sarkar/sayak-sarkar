@@ -41,10 +41,7 @@ Here's some metadata about me:
 <!--START_SECTION:waka-->
 
 ```text
-Groovy       2 mins          ██████████████░░░░░░░░░░░   55.42 %
-YAML         2 mins          ███████████░░░░░░░░░░░░░░   43.58 %
-Properties   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
