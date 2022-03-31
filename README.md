@@ -41,9 +41,9 @@ Here's some metadata about me:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   10 hrs 51 mins  █████████████████████▓░░░   86.37 %
-JavaScript   45 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
-Other        39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
+TypeScript   10 hrs 15 mins  █████████████████████▒░░░   85.93 %
+JavaScript   45 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
+Other        39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
 ```
 
 <!--END_SECTION:waka-->
