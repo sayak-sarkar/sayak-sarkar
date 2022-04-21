@@ -41,7 +41,7 @@ Here's some metadata about me:
 <!--START_SECTION:waka-->
 
 ```text
-Other        6 mins          █████████████████▒░░░░░░░   69.08 %
+Other        28 mins         ████████████▒░░░░░░░░░░░░   49.11 %
 ```
 
 <!--END_SECTION:waka-->
