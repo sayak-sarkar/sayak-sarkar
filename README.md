@@ -41,12 +41,9 @@ Here's some metadata about me:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   5 hrs 56 mins   ████████████████▓░░░░░░░░   66.15 %
-Bash         1 hr 55 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.36 %
-JavaScript   32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
-JSON         24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
-XML          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+TypeScript   3 hrs 23 mins   ████████████████████████▓   98.34 %
+XML          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
