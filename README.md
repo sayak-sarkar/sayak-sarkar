@@ -41,11 +41,7 @@ Here's some metadata about me:
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     11 mins         ███████████▒░░░░░░░░░░░░░   45.73 %
-JavaScript   10 mins         ██████████▓░░░░░░░░░░░░░░   43.05 %
-HTML         2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
-CSS          0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
