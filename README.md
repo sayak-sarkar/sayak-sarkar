@@ -41,11 +41,12 @@ Here's some metadata about me:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   6 mins          ██████████████░░░░░░░░░░░   55.79 %
-JSON         4 mins          ████████▓░░░░░░░░░░░░░░░░   34.34 %
-JavaScript   0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 %
-Markdown     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+YAML         14 mins         ███████████░░░░░░░░░░░░░░   43.73 %
+Markdown     6 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.77 %
+TypeScript   6 mins          █████░░░░░░░░░░░░░░░░░░░░   20.13 %
+JSON         4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.16 %
+JavaScript   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 ```
 
 <!--END_SECTION:waka-->
