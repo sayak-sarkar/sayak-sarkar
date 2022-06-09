@@ -41,9 +41,7 @@ Here's some metadata about me:
 <!--START_SECTION:waka-->
 
 ```text
-JSON    2 mins          █████████████████████▒░░░   85.47 %
-YAML    0 secs          ███▓░░░░░░░░░░░░░░░░░░░░░   14.53 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
