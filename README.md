@@ -41,8 +41,8 @@ Here's some metadata about me:
 <!--START_SECTION:waka-->
 
 ```text
-JSON       8 mins          ███████████████░░░░░░░░░░   59.43 %
-Markdown   5 mins          ██████████░░░░░░░░░░░░░░░   40.57 %
+Markdown   1 min           █████████████████████████   100.00 %
+Bash       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
