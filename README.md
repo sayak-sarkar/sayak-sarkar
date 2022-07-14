@@ -41,8 +41,10 @@ Here's some metadata about me:
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   1 min           █████████████████████████   100.00 %
-Bash       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+YAML       23 mins         ██████████████▒░░░░░░░░░░   56.85 %
+AsciiDoc   17 mins         ██████████▓░░░░░░░░░░░░░░   42.11 %
+Text       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+Docker     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
