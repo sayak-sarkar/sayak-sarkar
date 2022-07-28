@@ -41,12 +41,7 @@ Here's some metadata about me:
 <!--START_SECTION:waka-->
 
 ```text
-Vue.js       1 hr 10 mins    █████████████▒░░░░░░░░░░░   53.67 %
-Markdown     26 mins         █████░░░░░░░░░░░░░░░░░░░░   20.38 %
-JavaScript   11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.97 %
-JSON         11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 %
-TypeScript   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
-CSS          2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
