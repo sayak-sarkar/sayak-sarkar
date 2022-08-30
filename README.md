@@ -41,7 +41,10 @@ Here's some metadata about me:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JavaScript   1 hr 53 mins    ███████████████░░░░░░░░░░   60.15 %
+Bash         36 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.04 %
+Markdown     27 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.59 %
+Other        11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
 ```
 
 <!--END_SECTION:waka-->
