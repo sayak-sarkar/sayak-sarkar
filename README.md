@@ -41,10 +41,10 @@ Here's some metadata about me:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   1 hr 53 mins    ███████████████░░░░░░░░░░   60.08 %
-Bash         36 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.01 %
-Markdown     27 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.57 %
-Other        11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 %
+JavaScript   56 mins         ███████████████░░░░░░░░░░   60.00 %
+Bash         18 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.99 %
+Markdown     13 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.55 %
+Other        5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
 ```
 
 <!--END_SECTION:waka-->
