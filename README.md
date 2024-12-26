@@ -6,7 +6,7 @@
   <a href="https://instagram.com/sayak_sarkar"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white"></a>
   <a href="https://sayaksarkar.wordpress.com/"><img src="https://img.shields.io/badge/Wordpress-21759b?style=flat-square&logo=wordpress&logoColor=white"></a>
   <a href="https://t.me/Bugsmith"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white"></a>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=sayak-sarkar/sayak-sarkar">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=sayak-sarkar.sayak-sarkar">
 </p>
   
 👨‍💻 **About Me:**
