@@ -6,7 +6,7 @@
   <a href="https://instagram.com/sayak_sarkar"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white"></a>
   <a href="https://sayaksarkar.wordpress.com/"><img src="https://img.shields.io/badge/Wordpress-21759b?style=flat-square&logo=wordpress&logoColor=white"></a>
   <a href="https://t.me/Bugsmith"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white"></a>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=sayak-sarkar.sayak-sarkar">
+  <img src="https://komarev.com/ghpvc/?username=sayak-sarkar&style=flat-square">
 </p>
   
 👨‍💻 **About Me:**
@@ -51,8 +51,8 @@ No activity tracked
 📈 **My GitHub Stats:**
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sayak-sarkar&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayak-sarkar&show_icons=true&hide_border=true&count_private=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sayak-sarkar&t&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&bg_color=00000000" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayak-sarkar&show_icons=true&hide_border=true&count_private=true&layout=compact&langs_count=8&bg_color=00000000"/>
 </p>
 
 -------
