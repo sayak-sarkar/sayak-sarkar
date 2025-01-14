@@ -50,8 +50,9 @@ Here's some metadata about me:
 <!--START_SECTION:waka-->
 
 ```txt
-PHP          37 mins         ████████████████████████▒   97.93 %
-JavaScript   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+PHP          37 mins         ███████████████████████░░   92.48 %
+MDX          2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
+JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
 ```
 
 <!--END_SECTION:waka-->
