@@ -50,10 +50,10 @@ Here's some metadata about me:
 <!--START_SECTION:waka-->
 
 ```txt
-Astro           3 hrs 54 mins   ██████████████▓░░░░░░░░░░   59.02 %
-TSConfig        39 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 %
-Git Config      32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 %
-Markdown        21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
+Astro           3 hrs 54 mins   ██████████████▓░░░░░░░░░░   59.11 %
+TSConfig        39 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.91 %
+Git Config      32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
+Markdown        21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
 Other           18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
 ```
 
