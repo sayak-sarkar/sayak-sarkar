@@ -50,11 +50,11 @@ Here's some metadata about me:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    10 hrs 36 mins  ████████▓░░░░░░░░░░░░░░░░   34.54 %
-Astro         10 hrs 4 mins   ████████▒░░░░░░░░░░░░░░░░   32.81 %
-HTML          4 hrs 57 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.15 %
-JavaScript    1 hr 32 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
-Other         1 hr 19 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
+TypeScript    13 hrs 39 mins  ██████████▒░░░░░░░░░░░░░░   41.47 %
+Astro         9 hrs 17 mins   ███████░░░░░░░░░░░░░░░░░░   28.19 %
+HTML          4 hrs 57 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.07 %
+JavaScript    1 hr 24 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
+Other         1 hr 23 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
 ```
 
 <!--END_SECTION:waka-->
