@@ -50,7 +50,11 @@ Here's some metadata about me:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Astro        1 hr 19 mins    ███████████████░░░░░░░░░░   59.37 %
+TypeScript   32 mins         ██████░░░░░░░░░░░░░░░░░░░   24.47 %
+Other        8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
+JavaScript   6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
+Bash         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
 ```
 
 <!--END_SECTION:waka-->
