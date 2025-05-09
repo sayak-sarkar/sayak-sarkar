@@ -50,9 +50,7 @@ Here's some metadata about me:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   16 mins         ██████████████████████░░░   88.46 %
-Markdown     1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.22 %
-JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
