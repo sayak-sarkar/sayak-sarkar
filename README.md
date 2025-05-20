@@ -50,10 +50,11 @@ Here's some metadata about me:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   13 mins         ████████████████████████▒   97.85 %
-CSS          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
-TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+TypeScript    6 mins          ████████████████████▓░░░░   83.19 %
+Markdown      0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
+Image (svg)   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
+JSON          0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
+CSS           0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
 ```
 
 <!--END_SECTION:waka-->
