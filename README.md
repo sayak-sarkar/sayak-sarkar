@@ -50,11 +50,11 @@ Here's some metadata about me:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   8 hrs 17 mins   ███████▓░░░░░░░░░░░░░░░░░   30.53 %
-Markdown     5 hrs 57 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.96 %
-HTML         5 hrs 49 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.46 %
-JavaScript   2 hrs 59 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.03 %
-JSON         1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
+TypeScript   7 hrs 33 mins   ████████▓░░░░░░░░░░░░░░░░   34.55 %
+HTML         5 hrs 29 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.04 %
+JavaScript   2 hrs 59 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.66 %
+Markdown     2 hrs 59 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.65 %
+CSS          52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
 ```
 
 <!--END_SECTION:waka-->
