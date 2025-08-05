@@ -1,4 +1,5 @@
 <h2 align="center">Hey there, I'm <a href="https://sayak.in" target="_blank">Sayak</a>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+<p align="center">🚀 Software Engineering Leader | OSS Advocate | Speaker | Curious Human</p>
 <p align="center">
   <a href="https://linkedin.com/in/sayaksarkar"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"></a>
   <a href="https://sayak.in"><img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white"></a>
@@ -17,10 +18,10 @@ I am a software engineer and a technical speaker who loves programming, writing,
 Here's some metadata about me:
 
 - 😄 Pronouns: He / Him / His;
-- 💬 Ask me about about anything Open Source;
-- 🔭 I like building tools to ease developers lives;
-- 🌱 I’m currently learning Game Design and Development;
-- 👯 I’m looking to collaborate on interesting projects;
+- 💬 Ask me about: Open source, backend architecture, DevRel, or team building.
+- 🔭 Currently building: Developer tooling & LLM-integrated infrastructure.
+- 🌱 Learning: Game design and generative AI;
+- 👯 Looking for: Collaboration on interesting projects;
 - 📫 Best medium to reach me: [@sayak_sarkar](https://twitter.com/sayak_sarkar) on Twitter;
 - ⚡ Fun fact: I have a large collection of minion figurines.
 
@@ -34,6 +35,7 @@ Here's some metadata about me:
 - [Bulk renaming PDFs to their Title names from PDF Metadata](https://sayaksarkar.wordpress.com/2017/08/04/bulk-renaming-pdfs-to-their-title-names-from-pdf-metadata/)
 - [Working around untrusted certificate errors in Express JS](https://sayaksarkar.wordpress.com/2017/08/02/working-around-untrusted-cert-errors-in-express-js/)
 <!-- BLOG-POST-LIST:END -->
+[Read more](https://sayaksarkar.wordpress.com/)
 
 -------
 
@@ -58,6 +60,12 @@ YAML         35 mins         █▒░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+-------
+
+📫 Want to collaborate or just say hi?
+
+Feel free to reach out on [Twitter](https://twitter.com/sayak_sarkar) or visit [sayak.in](https://sayak.in)
 
 -------
 
