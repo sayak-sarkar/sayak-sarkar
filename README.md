@@ -52,11 +52,11 @@ Here's some metadata about me:
 <!--START_SECTION:waka-->
 
 ```txt
-JSON          15 hrs 48 mins  ███████████▓░░░░░░░░░░░░░   47.28 %
-Markdown      6 hrs 20 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.99 %
-Image (svg)   4 hrs 44 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.21 %
-HTML          4 hrs 28 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.38 %
-Other         1 hr 40 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
+JSON          15 hrs 19 mins  ███████████▓░░░░░░░░░░░░░   46.52 %
+Markdown      6 hrs 20 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.26 %
+Image (svg)   4 hrs 44 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.41 %
+HTML          4 hrs 28 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.58 %
+Other         1 hr 40 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
 ```
 
 <!--END_SECTION:waka-->
