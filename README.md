@@ -52,11 +52,11 @@ Here's some metadata about me:
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript    6 hrs 30 mins   ██████████████░░░░░░░░░░░   55.41 %
-Image (svg)   1 hr 46 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.05 %
-CSS           49 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
-Bash          42 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
-HTML          39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
+JavaScript    6 hrs 5 mins    ██████████████░░░░░░░░░░░   55.57 %
+Image (svg)   1 hr 27 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.29 %
+CSS           43 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
+Bash          42 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 %
+Markdown      39 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
 ```
 
 <!--END_SECTION:waka-->
