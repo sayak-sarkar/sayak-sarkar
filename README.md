@@ -52,7 +52,10 @@ Here's some metadata about me:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JSON         10 mins         █████████████▓░░░░░░░░░░░   54.39 %
+TypeScript   4 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.16 %
+TSConfig     3 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.91 %
+Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
 ```
 
 <!--END_SECTION:waka-->
