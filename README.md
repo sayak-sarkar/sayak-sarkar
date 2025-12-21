@@ -52,10 +52,9 @@ Here's some metadata about me:
 <!--START_SECTION:waka-->
 
 ```txt
-HTML         18 mins         ███████████████▓░░░░░░░░░   62.69 %
-Other        6 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.34 %
-JavaScript   3 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.68 %
-CSS          0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
+HTML         18 mins         ████████████████████░░░░░   79.70 %
+JavaScript   3 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.12 %
+CSS          0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
 ```
 
 <!--END_SECTION:waka-->
