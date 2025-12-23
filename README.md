@@ -52,7 +52,7 @@ Here's some metadata about me:
 <!--START_SECTION:waka-->
 
 ```txt
-HTML   13 mins         █████████████████████████   100.00 %
+HTML   4 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
