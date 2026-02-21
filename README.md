@@ -52,11 +52,11 @@ Here's some metadata about me:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     20 mins               ████████████████▓░░░░░░░░   66.69 %
-Python       4 mins                ███▓░░░░░░░░░░░░░░░░░░░░░   14.73 %
-Other        3 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.11 %
-TypeScript   2 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
-Text         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+Markdown     20 mins               ███████████▓░░░░░░░░░░░░░   46.77 %
+Python       17 mins               ██████████░░░░░░░░░░░░░░░   40.64 %
+Other        3 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 %
+TypeScript   2 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
+JSON         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 ```
 
 <!--END_SECTION:waka-->
