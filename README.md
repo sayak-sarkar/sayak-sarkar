@@ -52,8 +52,8 @@ Here's some metadata about me:
 <!--START_SECTION:waka-->
 
 ```txt
-Python       13 mins               █████████████████████▓░░░   86.41 %
-TypeScript   2 mins                ███▒░░░░░░░░░░░░░░░░░░░░░   13.59 %
+Python       13 mins               █████████████████████▓░░░   86.01 %
+TypeScript   2 mins                ███▒░░░░░░░░░░░░░░░░░░░░░   13.99 %
 ```
 
 <!--END_SECTION:waka-->
