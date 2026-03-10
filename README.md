@@ -52,7 +52,10 @@ Here's some metadata about me:
 <!--START_SECTION:waka-->
 
 ```txt
-Python   1 min                 █████████████████████████   100.00 %
+Markdown   25 mins               ███████████████████████▒░   92.75 %
+Python     1 min                 █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
+YAML       0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+Go         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
