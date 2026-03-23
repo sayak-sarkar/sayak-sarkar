@@ -52,11 +52,9 @@ Here's some metadata about me:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     4 hrs 15 mins         ██████████████████▓░░░░░░   75.05 %
-SCSS         1 hr 3 mins           ████▓░░░░░░░░░░░░░░░░░░░░   18.65 %
-Text         9 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
-YAML         8 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
-JavaScript   3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+Markdown   2 hrs 10 mins         ████████████████████░░░░░   79.59 %
+SCSS       24 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.81 %
+Text       9 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
 ```
 
 <!--END_SECTION:waka-->
