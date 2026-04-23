@@ -52,8 +52,7 @@ Here's some metadata about me:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   20 mins               ███████████████████▓░░░░░   79.21 %
-Other      5 mins                █████▒░░░░░░░░░░░░░░░░░░░   20.79 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
