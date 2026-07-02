@@ -52,7 +52,11 @@ Here's some metadata about me:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Text          15 mins               █████████████████████▒░░░   85.75 %
+JSON          1 min                 ██▒░░░░░░░░░░░░░░░░░░░░░░   09.73 %
+STL           0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+Image (svg)   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+Markdown      0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
 ```
 
 <!--END_SECTION:waka-->
