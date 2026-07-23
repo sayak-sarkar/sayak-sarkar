@@ -52,7 +52,11 @@ Here's some metadata about me:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown   7 mins                ████████████▒░░░░░░░░░░░░   49.48 %
+Python     5 mins                █████████▒░░░░░░░░░░░░░░░   37.38 %
+Diff       0 secs                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
+Other      0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
+Docker     0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
 ```
 
 <!--END_SECTION:waka-->
