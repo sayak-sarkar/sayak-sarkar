@@ -52,9 +52,7 @@ Here's some metadata about me:
 <!--START_SECTION:waka-->
 
 ```txt
-JSON    6 mins                ████████████████████▓░░░░   82.20 %
-TOML    1 min                 ███▓░░░░░░░░░░░░░░░░░░░░░   15.31 %
-Other   0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
+Other   0 secs                █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
